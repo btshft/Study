@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bitshift/CLionProjects/Sodium/main.cpp
+vector
+-
+string
+-
+iostream
+-
+iomanip
+-
+sstream
+-
+sodium.h
+-
+
