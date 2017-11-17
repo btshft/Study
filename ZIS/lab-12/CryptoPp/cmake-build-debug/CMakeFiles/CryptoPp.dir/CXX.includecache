@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bitshift/CLionProjects/CryptoPp/main.cpp
+osrng.h
+/Users/bitshift/CLionProjects/CryptoPp/osrng.h
+iostream
+-
+string
+-
+cstdlib
+-
+cryptlib.h
+/Users/bitshift/CLionProjects/CryptoPp/cryptlib.h
+hex.h
+/Users/bitshift/CLionProjects/CryptoPp/hex.h
+filters.h
+/Users/bitshift/CLionProjects/CryptoPp/filters.h
+aes.h
+/Users/bitshift/CLionProjects/CryptoPp/aes.h
+modes.h
+/Users/bitshift/CLionProjects/CryptoPp/modes.h
+

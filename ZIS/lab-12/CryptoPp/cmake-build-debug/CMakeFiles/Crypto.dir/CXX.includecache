@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bitshift/CLionProjects/CryptoPp/main.cpp
+cryptopp/osrng.h
+-
+iostream
+-
+string
+-
+sstream
+-
+iomanip
+-
+vector
+-
+cstdlib
+-
+cryptopp/cryptlib.h
+-
+cryptopp/hex.h
+-
+cryptopp/filters.h
+-
+cryptopp/aes.h
+-
+cryptopp/modes.h
+-
+cryptopp/files.h
+-
+cryptopp/salsa.h
+-
+cryptopp/blowfish.h
+-
+
